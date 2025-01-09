@@ -1,7 +1,3 @@
-Here’s a modified and friendly version of the "About" section for Veelead’s private GitHub, complete with emoji icons to enhance readability and engagement:  
-
----
-
 ## 👋 Welcome to Veelead Solutions on GitHub!  
 
 Hey there, team! 🎉 This is our **official GitHub space** where the magic happens! 🧑‍💻💡 Here, you’ll find all the awesome repositories, tools, and resources that make Veelead Solutions shine as a **Microsoft Gold Partner** 🌟.  
